@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.craftz.dog/](https://www.craftz.dog/)
+- 👨‍💻 All of my projects are available at [https://www.craftz.dog/](https://www.SaadKhan.com/)
 
 - 💬 Ask me about **Mern, Tawilwind Css, Sanity,Nextjs**
 
