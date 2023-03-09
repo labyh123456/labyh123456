@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.Saadkhan.com/](https://www.SaadKhan.com/)
 
-- 💬 Ask me about **Mern, Tawilwind Css, Sanity,Nextjs**
+- 💬 Ask me about **Mern Stack,Nextjs, Tailwind Css, Sanity*
 
 - 📫 How to reach me **tommmyy890@gmail.com**
 
