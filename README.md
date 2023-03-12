@@ -1,6 +1,4 @@
-
-![White Coffee Banner (1)](https://user-images.githubusercontent.com/109628645/224572875-5d7adc8c-2fd9-44ad-b761-ebfbec963d56.png)
-
+![github-banner](https://user-images.githubusercontent.com/109628645/224573068-09ebdbf3-e5c5-4e66-8aa2-3e97ed2e7f55.png)
 <h1 align="center">Hi 👋, I'm Saad Khan</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE2ZTc4ZmExYWJmZDk5ZWE0YmI5ZDRhOGYyMTRlZGM3ZTRlZWRjNSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif"/>
