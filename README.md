@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.Saadkhan.com/](https://www.SaadKhan.com/)
-
 - 💬 Ask me about **Mern Stack,Nextjs, Tailwind Css, Sanity*
 
 - 📫 How to reach me **tommmyy890@gmail.com**
